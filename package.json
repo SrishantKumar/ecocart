@@ -61,6 +61,7 @@
     "zod": "^3.25.67"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.11.4",
     "@types/maplibre-gl": "^1.13.2",
     "@types/node": "^20.6.2",
     "@types/react": "^18.2.22",
